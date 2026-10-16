@@ -1,0 +1,9 @@
+{
+  "name": "Lockscreen Magic",
+  "short_name": "Lockscreen",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b12",
+  "theme_color": "#0b0b12",
+  "icons": []
+}
